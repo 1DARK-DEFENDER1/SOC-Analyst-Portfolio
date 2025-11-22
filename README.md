@@ -7,7 +7,7 @@
 
 ## 📊 Мои достижения на TryHackMe
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5219559" style='border:none; width: 400px; height: 180px;'></iframe>
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/MamontALPHA.png)](https://tryhackme.com/p/MamontALPHA)
 
 - **Рейтинг:** 122,812 | **Топ 7%** глобального рейтинга
 - **Пройдено комнат:** 60+
