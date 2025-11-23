@@ -29,6 +29,8 @@
 ## 📊 Мои достижения на TryHackMe
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/MamontALPHA.png" alt="Your Image Badge" />
+<img width="1885" height="458" alt="image" src="https://github.com/user-attachments/assets/e719f3ac-d8ea-444d-8611-ac777d6bb577" />
+
 
 - **Рейтинг:** 122,812 | **Топ 7%** глобального рейтинга
 - **Пройдено комнат:** 60+
