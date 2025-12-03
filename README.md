@@ -29,7 +29,8 @@
 - 
 ## 📊 Мои достижения на TryHackMe
 
-<img width="1902" height="440" alt="image" src="https://github.com/user-attachments/assets/f5748fc6-4f17-4ff5-bf2f-0b754c9100ea" />
+<img width="1903" height="470" alt="image" src="https://github.com/user-attachments/assets/72a65bde-ef73-4b00-9eca-bbd3fd78aa31" />
+
 
 
 
